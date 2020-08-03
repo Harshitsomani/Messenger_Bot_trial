@@ -77,7 +77,7 @@ app.post('/webhook/', function (req, res) {
 
 });
 
-var token = " enter token here"
+var token = "EAAGUvUK2knUBAHJZCEzh3ECP7hLiQXZCUK9Au5OKK10WuV0PLNxDcWVCRjhi1aDGmswx0Pr1YgZBO4XYY8CYQcPcF2KPv6iuaaAn9MXBW9zLvIrjpJWUPo2tuqLWpgnoitZCxvZCBU4NfPU6wNdUckXtCQiv0ktCqICLamhFmXqAPuzEoL8VwNLlHn3QNGmoZD"
 
 // function to echo back messages - added by Stefan
 
